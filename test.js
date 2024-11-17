@@ -17,3 +17,8 @@ function f(a){
 }
 f(a)
 console.log(n,s,b);
+
+
+
+
+console.log("New one")
